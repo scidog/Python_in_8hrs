@@ -2,8 +2,8 @@
 a=100
 b=200
 result1= (a>b)
-print (result1) 
+print ("(a>b) = ", result1) 
 result2= (a==b)
-print (result2) 
+print ("(a==b) = ",result2) 
 result3= (a!=b)
-print (result3) 
+print ("(a!=b) = ",result3) 
